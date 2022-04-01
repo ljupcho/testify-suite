@@ -4,5 +4,5 @@ package testify
 // blank imports help docs.
 import (
 	// suite package
-	_ "github.com/ljupcho/testify-suite/suite"
+	_ "github.com/ljupcho/testify/suite"
 )

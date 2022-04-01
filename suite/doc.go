@@ -33,7 +33,7 @@
 //     import (
 //         "testing"
 //         "github.com/stretchr/testify/assert"
-//         "github.com/ljupcho/testify-suite/suite"
+//         "github.com/ljupcho/testify/suite"
 //     )
 //
 //     // Define the suite, which is simply a struct with all

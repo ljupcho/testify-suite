@@ -14,7 +14,7 @@ import (
 	"testing"
 	"time"
 
-	suite "github.com/ljupcho/testify-suite"
+	"github.com/ljupcho/testify-suite/suite"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
